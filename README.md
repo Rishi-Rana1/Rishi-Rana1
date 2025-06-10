@@ -44,12 +44,6 @@ CS @ NYU | Prev SWE Intern @ Con Edison | Prev SWE Intern @ UnitedHealth Group |
 
 ---
 
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-Rana1&layout=compact&theme=react)
-
----
-
 ## Connect with Me
 
 [LinkedIn](https://www.linkedin.com/in/rishi-cabrera-rana-9a825527a/)  
