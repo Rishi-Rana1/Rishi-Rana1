@@ -48,4 +48,4 @@ CS @ NYU | Prev SWE Intern @ Con Edison | Prev SWE Intern @ UnitedHealth Group |
 
 [LinkedIn](https://www.linkedin.com/in/rishi-cabrera-rana-9a825527a/)  
 [GitHub](https://github.com/Rishi-Rana1)  
-Email: Rishirana1121@outlook.com
+Email: Rishirana1121'at'outlook.com
