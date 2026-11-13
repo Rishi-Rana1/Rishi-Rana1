@@ -1,6 +1,6 @@
 # Hi, I'm Rishi
 
-SWE @ Capital One| CS @ NYU | Prev SWE Intern @ Con Edison | Prev SWE Intern @ UnitedHealth Group | Full-Stack Developer | 2023 - 2025 Vice President of [HackNYU](https://hacknyu.org/)
+SWE @ Capital One | CS @ NYU | Prev SWE Intern @ Con Edison | Prev SWE Intern @ UnitedHealth Group | Full-Stack Developer | 2023 - 2025 Vice President of [HackNYU](https://hacknyu.org/)
 
 ---
 
